@@ -32,3 +32,6 @@ html,body{
 }
 .bgg{background-color: rgba(19, 17, 20, 0.5);
 }
+li{
+    font-size: 2.0rem;
+}
