@@ -1,0 +1,36 @@
+
+body{
+    font-size: 10px;
+}
+html,body{
+    margin:0; height: 100%;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("../img/naruto.png");
+    /* Set a specific height */
+    height:80.0rem;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax1 {
+    /* The image used */
+    background-image: url("../img/koro.png");
+    /* Set a specific height */
+    height:100.0rem;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg1{background-color: rgba(255, 0, 13, 0.5);
+}
+.bgg{background-color: rgba(19, 17, 20, 0.5);
+bottom: 1;
+    background-size: cover;
+}
