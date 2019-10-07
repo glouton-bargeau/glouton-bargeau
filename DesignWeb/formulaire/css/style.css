@@ -1,0 +1,17 @@
+body{
+    font-size: 10px;
+}
+.btn-dark{
+ background-color: red;
+    background-image: radial-gradient(red 5%, yellow 15%, green 60%);
+}
+h2{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 25px;
+    transition: background-image .25s ease-in-out;
+}
+.bgpouce{
+    background-image: url("../img/pouce.png");
+}
