@@ -15,3 +15,7 @@ h2{
 .bgpouce{
     background-image: url("../img/pouce.png");
 }
+.bg{
+    background-color: darkgrey;
+    color: darkgrey;
+}
