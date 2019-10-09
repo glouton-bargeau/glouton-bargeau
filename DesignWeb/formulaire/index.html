@@ -7,31 +7,51 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body class="bg">
-<form>
+<body>
+<form class="bg h-100 text-center">
 
     <div class="container-fluid">
-        <div class="form-row">
-            <div class="col-md-4">
-                <input type="text" class="form-control" placeholder="entre ton prenom">
-            </div>
-            <div class="col-md-4">
-                <input type="text" class="form-control" placeholder="entre ton nom">
-            </div>
+        <div class="row text-center">
+            <div class="col-xl-12"><h1>formulaire</h1></div>
+                <div class="col-md-6">
+                    <input type="text" class="form-control" placeholder="entre ton prenom">
+                </div>
+                <div class="col-md-6">
+                    <input type="text" class="form-control" placeholder="entre ton nom">
+                </div>
         </div>
+        <br>
 
-        <div class="form-group col-md-4">
-            <label for="inputState">State</label>
+        <div class="row col-xl-4">
+            <label for="inputState" class="text1">quel est le probleme</label>
             <select id="inputState" class="form-control">
-                <option selected>quel est le probleme</option>
+                <option selected>mon ordinateur a toucher un telephone apple</option>
                 <option>je suis tomber sur ma bros a dent</option>
-                <option>mon ordinateur a toucher un telephone apple</option>
             </select>
         </div>
         <div class="form-group">
-            <label for="exampleFormControlTextarea1" class="col-xl-6">Example textarea</label>
+            <label for="exampleFormControlTextarea1" class="col-xl-6 text1">question</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
         </div>
+        <div class="col-xl-12">
+            <p class="text1">de quel degrer d'urgence:</p>
+            <div class="col-xl-12">
+               <div class="col-xl-4">
+                   <input class="form-check-input" type="radio" name="exampleRadios" id="Urgent" value="option1">
+                   <label class="form-check-label" for="urgent"><h6>Urgent</h6>
+               </div>
+                <div class="col-xl-4">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="Important" value="option2">
+                    <label class="form-check-label" for="Important"><h6>Important</h6>
+                </div>
+                <div class="col-xl-4">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="Peut attendre" value="option3">
+                    <label class="form-check-label" for="Peut attendre"><h6>Important</h6>
+                </div>
+            </div>
+        </div>
+        <a href="index2.html" class="btn btn-danger btn-lg active" role="button" aria-pressed="true"><h6>remetre</h6></a>
+        <a href="index.html" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true"><h6>reset</h6></a>
     </div>
 </form>
 <script src="js/jquery-3.4.1.min.js"></script>
