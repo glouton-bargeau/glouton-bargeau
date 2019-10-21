@@ -1,5 +1,7 @@
+/*pruduit par Antoine Heon le 17/10/19*/
+html,body { margin:0; height:100%;}
 body{
-    font-size: 12px;
+    font-size: 10px;
 }
 .navbar {
     background-color: #19e1ea;
@@ -129,7 +131,7 @@ body{
 }
 /*===================================================================*/
 .parallax {
-    background-image: url("../img/vs.jpg");
+    background-image: url("../img/dclogo.jpg");
     height: 50.0rem;
     background-attachment: fixed;
     background-position: center;
@@ -143,32 +145,99 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.parallaxinterogation {
+    background-image: url("../img/interogation.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ban{
+    background-image: url("../img/vs1.jpg");
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
 /*===================================================================*/
-.bgnoir{
+/*
+@media screen and (max-width: 600px) {
+
+    .parallax {
+        background-color: olive;
+        color: white;}*/
+/*===================================================================*/
+.bgvs {
+    background-color: red;
+    background-image: linear-gradient(to right,blue,red);
 }
+.bgrouge{
+background-color: red;
+}
+/*===================================================================*/
+.size{
+    font-size: 1.3rem;
+}
+.bggris{
+    background-color: gray;
+}
+.bgblanc{
+  color: white;
+}
+/*
+header {
+    position: relative;
+    background-color: black;
+    height: 100%;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+*/
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*===================================================================*/
+.bgflash{
+    color: yellow;
+    font-size: 3.5rem;
+}
+.bgflash1{
+    color: yellow;
+    font-size: 1.5rem;
+}
+.bgflash2{
+    color: red;
+}
+.bgflash3{
+    background-color: yellow;
+}
+.bgstan{
+    color: blue;
+    font-size: 1.5rem;
+}
+/*====================================================================*/
+/* Cellulaires */
+@media only screen and (max-width: 480px){
+    .ban{
+        background-image: url("../img/vs7373.jpg");
+    }
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1024px)
+    .ban{
+        background-image: url("../img/vs1234.jpeg");
+    }
+}
