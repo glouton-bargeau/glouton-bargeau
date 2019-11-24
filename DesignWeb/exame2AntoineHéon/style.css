@@ -11,11 +11,9 @@ body{
 label{
     font-size: 2rem;
 }
-/*.bgphotocity{
-    background-image:url("img/photo.jpg");
-    background-repeat: no-repeat;
-    height: 1080px;
-}*/
+.bgphotocity{
+margin-top: 10rem;
+}
 /*************************************/
 .rouge{
     color: #ff000d;
@@ -64,4 +62,9 @@ label{
     background-image: url("background/rouge.jpg");
     width: 5rem;
     height: 5rem;
+}
+/***********print***************/
+@media print {
+    .noprint {display: none !important;  }
+}
 }
