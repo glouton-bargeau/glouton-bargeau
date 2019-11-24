@@ -1,0 +1,19 @@
+/* Vous ne devez pas modifier ce fichier!*/
+.green{
+    color: lawngreen;
+}
+.col-xs-4{
+    padding :0;
+}
+.bgyoda{
+     background-image: url("./img/yoda.jpg");
+     background-position: center;
+     min-height: 800px;
+     background-repeat: no-repeat;
+}
+.spider{
+    background-image: url("./img/spider.jpg");
+    background-position: center;
+    min-height: 800px;
+    background-repeat: no-repeat;
+}

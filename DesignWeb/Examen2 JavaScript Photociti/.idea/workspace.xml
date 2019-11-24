@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="513e0acd-ee05-455e-b841-b2ab01d096f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/Bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/JS/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/JS/jqueryok.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/img/Hulk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/img/cursed-spiderman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/img/darth vader.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/img/obiwane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/img/spider.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/img/thor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/img/yoda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/img/yoda1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon 2019/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/.idea/pokemonlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/Bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/JS/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/JS/jqueryok.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/JS/tableau.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/81.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/Pokeball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemonlist/pokemon/pokeball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/.idea/target.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/img/stan lee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/sryle.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../css/sryle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Examen2 JavaScript Photociti.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tnv5GNKehE1BtUNVlRAKBlLAbO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\antoi\Documents\Github\glouton-bargeau\DesignWeb\Examen2 JavaScript Photociti" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="513e0acd-ee05-455e-b841-b2ab01d096f9" name="Default Changelist" comment="" />
+      <created>1574108488620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574108488620</updated>
+      <workItem from="1574108489783" duration="802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

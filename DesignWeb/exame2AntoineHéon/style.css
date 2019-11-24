@@ -1,0 +1,67 @@
+html,body {
+    margin:0;
+    height:100%;
+    background-image: url("img/photo.jpg");
+
+}
+body{
+    font-size: 10px;
+}
+/*************************************/
+label{
+    font-size: 2rem;
+}
+/*.bgphotocity{
+    background-image:url("img/photo.jpg");
+    background-repeat: no-repeat;
+    height: 1080px;
+}*/
+/*************************************/
+.rouge{
+    color: #ff000d;
+}
+.vert{
+    color: greenyellow;
+}
+.gris{
+    color: blanchedalmond;
+}
+/*************************************/
+#bgchange{
+    background-image: url("background/blanc.jpg");
+}
+#blanc{
+    background-image: url("background/blanc.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#bleu{
+     background-image: url("background/bleu.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#bleufonce{
+    background-image: url("background/bleuFonce.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#gris{
+    background-image: url("background/gris.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#noir{
+    background-image: url("background/noir.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#rose{
+    background-image: url("background/rose.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#rouge{
+    background-image: url("background/rouge.jpg");
+    width: 5rem;
+    height: 5rem;
+}
