@@ -26,10 +26,10 @@ $('#boutongo').click(function () {
         for (a=0;a<=compteur;a++){
             $('#'+a+'').show();
             if (tableau[a-1]==="*"){
-                $('#' + a).attr('src', 'letters/CS/CS1.jpg')
+                $('#' + a).attr('src', 'Letters/CS/CS1.jpg')
             }
             else {
-                $('#' + a).attr('src', 'letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
+                $('#' + a).attr('src', 'Letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
             }
         }
         $('.1').attr('class', 'col-4 1');
@@ -40,10 +40,10 @@ $('#boutongo').click(function () {
         for (a = 0; a <= compteur; a++) {
             $('#' + a + '').show();
             if (tableau[a-1]==="*"){
-                $('#' + a).attr('src', 'letters/CS/CS1.jpg')
+                $('#' + a).attr('src', 'Letters/CS/CS1.jpg')
             }
             else {
-                $('#' + a).attr('src', 'letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
+                $('#' + a).attr('src', 'Letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
             }
         }
         $('.1').attr('class', 'col-3 1');
@@ -53,10 +53,10 @@ $('#boutongo').click(function () {
         for (a=0;a<=compteur;a++){
             $('#'+a+'').show();
             if (tableau[a-1]==="*"){
-                $('#' + a).attr('src', 'letters/CS/CS1.jpg')
+                $('#' + a).attr('src', 'Letters/CS/CS1.jpg')
             }
             else {
-                $('#' + a).attr('src', 'letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
+                $('#' + a).attr('src', 'Letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
             }
         }
         $('.1').attr('class', 'col-2 1');
@@ -66,10 +66,10 @@ $('#boutongo').click(function () {
         for (a=0;a<=compteur;a++){
             $('#'+a+'').show();
             if (tableau[a-1]==="*"){
-                $('#' + a).attr('src', 'letters/CS/CS1.jpg')
+                $('#' + a).attr('src', 'Letters/CS/CS1.jpg')
             }
             else {
-                $('#' + a).attr('src', 'letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
+                $('#' + a).attr('src', 'Letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
             }
         }
         $('.1').attr('class', 'col-2 1');
@@ -79,10 +79,10 @@ $('#boutongo').click(function () {
         for (a=0;a<=compteur;a++){
             $('#'+a+'').show();
             if (tableau[a-1]==="*"){
-                $('#' + a).attr('src', 'letters/CS/CS1.jpg')
+                $('#' + a).attr('src', 'Letters/CS/CS1.jpg')
             }
             else {
-                $('#' + a).attr('src', 'letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
+                $('#' + a).attr('src', 'Letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
             }
         }
         $('.1').attr('class', 'col-1 1');
@@ -92,10 +92,10 @@ $('#boutongo').click(function () {
         for (a=0;a<=compteur;a++){
             $('#'+a+'').show();
             if (tableau[a-1]==="*"){
-                $('#' + a).attr('src', 'letters/CS/CS1.jpg')
+                $('#' + a).attr('src', 'Letters/CS/CS1.jpg')
             }
             else {
-                $('#' + a).attr('src', 'letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
+                $('#' + a).attr('src', 'Letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
             }
         }
         $('.1').attr('class', 'col-1 1');
@@ -105,10 +105,10 @@ $('#boutongo').click(function () {
         for (a=0;a<=compteur;a++){
             $('#'+a+'').show();
             if (tableau[a-1]==="*"){
-                $('#' + a).attr('src', 'letters/CS/CS1.jpg')
+                $('#' + a).attr('src', 'Letters/CS/CS1.jpg')
             }
             else {
-                $('#' + a).attr('src', 'letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
+                $('#' + a).attr('src', 'Letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
             }
         }
         $('.1').attr('class', 'col-1 1');
@@ -118,10 +118,10 @@ $('#boutongo').click(function () {
         for (a=0;a<=compteur;a++){
             $('#'+a+'').show();
             if (tableau[a-1]==="*"){
-                $('#' + a).attr('src', 'letters/CS/CS1.jpg')
+                $('#' + a).attr('src', 'Letters/CS/CS1.jpg')
             }
             else {
-                $('#' + a).attr('src', 'letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
+                $('#' + a).attr('src', 'Letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
             }
         }
         $('.1').attr('class', 'col-1 1');
@@ -131,10 +131,10 @@ $('#boutongo').click(function () {
         for (a=0;a<=compteur;a++){
             $('#'+a+'').show();
             if (tableau[a-1]==="*"){
-                $('#' + a).attr('src', 'letters/CS/CS1.jpg')
+                $('#' + a).attr('src', 'Letters/CS/CS1.jpg')
             }
             else {
-                $('#' + a).attr('src', 'letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
+                $('#' + a).attr('src', 'Letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
             }
         }
         $('.1').attr('class', 'col-1 1');
@@ -144,10 +144,10 @@ $('#boutongo').click(function () {
         for (a = 0; a <= compteur; a++) {
             $('#' + a + '').show();
             if (tableau[a-1]==="*"){
-                $('#' + a).attr('src', 'letters/CS/CS1.jpg')
+                $('#' + a).attr('src', 'Letters/CS/CS1.jpg')
             }
             else {
-                $('#' + a).attr('src', 'letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
+                $('#' + a).attr('src', 'Letters/' + tableau[a - 1] + '/' + tableau[a - 1] + '1.jpg')
             }
         }
         $('.1').attr('class', 'col-1 1');
