@@ -308,6 +308,27 @@ $(document).on('keyup',function (e) {
         else {
             $('#nonpossible').show();
         }
+    }
+});
+/*************************cour**ou**long*******************************/
+$('#nom').keyup(function (){
+    var tableau = $('#nom').val().toUpperCase();
+    var compteur = tableau.length;
+    if (compteur<3) {
+        $('#vertueux').hide();
+        $('#long').hide();
+        $('#cours').show();
+   }
+    else if (compteur>12) {
+        $('#cours').hide();
+        $('#vertueux').hide();
+        $('#long').show();
+    }
+    else {
+        $('#cours').hide();
+        $('#long').hide();
+        $('#vertueux').show();
+    }
 });
 
 /****************************couleur**********************************/
