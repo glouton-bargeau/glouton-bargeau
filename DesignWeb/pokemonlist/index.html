@@ -3,20 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <title>pokemon</title>
-    <link rel="stylesheet" type="text/css" href="Bootstrap/css/bootstrap.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
 
-    <script src="JS/jquery-3.3.1.min.js" defer></script>
-    <script src="Bootstrap/js/bootstrap.js" defer></script>
-    <script src="JS/tableau.js" defer></script>
+    <script src="js/jquery-3.4.1.min.js" defer></script>
+    <script src="js/bootstrap.js" defer></script>
+    <script src="pokemontableau.js" defer></script>
+
+
+
 </head>
 <body>
 <div class="container-fluid">
     <div class="row">
-        <div id="pokemondiv">
+        <div class="col-12">
+            <div class="offset-4"></div>
+            <input type="text" class="form-control col-4" id="pkenumber" placeholder=" max (151)">
+            <button class="btn white border border-red round-large col-4" id="go">pokemon GO!</button>
+        </div>
+        <div>
+            <h1></h1>
             <img src="pokemon/Pokeball.png" height="200" width="200" id="pokemonimg"/>
         </div>
-        <div id="test"></div>
     </div>
 </div>
 </body>
