@@ -10,29 +10,29 @@ $('#go').click(function () {
     if (nombre===19) {
         if (alola === 1) {
             if (shiny === 1) {
-                $('#nom').before("<h1>#" + nombre + "   " + pokemons[nombre] + "</h1> </br>");
+                $('#nom').html("#"+ nombre + "   " + pokemons[nombre]);
                 $('#pokemonimg').attr("src", "pokemon/" + nombre + "as.gif");
             } else {
-                $('#pokemondiv').before("<h1>#" + nombre + "   " + pokemons[nombre] + "</h1> </br>");
+                $('#nom').html("#"+ nombre + "   " + pokemons[nombre]);
                 $('#pokemonimg').attr("src", "pokemon/" + nombre + "a.gif");
             }
         } else {
             if (shiny === 1) {
-                $('#pokemondiv').before("<h1>#" + nombre + "   " + pokemons[nombre] + "</h1> </br>");
+                $('#nom').html("#"+ nombre + "   " + pokemons[nombre]);
                 $('#pokemonimg').attr("src", "pokemon/" + nombre + "s.png");
             } else {
-                $('#pokemondiv').before("<h1>#" + nombre + "   " + pokemons[nombre] + "</h1> </br>");
+                $('#nom').html("#"+ nombre + "   " + pokemons[nombre]);
                 $('#pokemonimg').attr("src", "pokemon/" + nombre + ".png");
             }
         }
     }
     else {
         if (shiny === 1) {
-            $('#pokemondiv').before("<h1>#" + nombre + "   " + pokemons[nombre] + "</h1> </br>");
+            $('#nom').html("#"+ nombre + "   " + pokemons[nombre]);
             $('#pokemonimg').attr("src", "pokemon/" + nombre +"s.gif");
         }
         else {
-            $('#pokemondiv').before("<h1>#" + nombre + "   " + pokemons[nombre] + "</h1> </br>");
+            $('#nom').html("#"+ nombre + "   " + pokemons[nombre]);
             $('#pokemonimg').attr("src", "pokemon/" + nombre + ".png");
         }
     }
