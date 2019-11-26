@@ -11,3 +11,26 @@ body,html{
     margin-top: 130px;
     margin-left: 150px;
 }
+button {
+    color: #1D9AF2;
+    background-color: #292D3E;
+    border: 1px solid #1D9AF2;
+    border-radius: 4px;
+    padding: 15px 18px 30px 15px
+    cursor: pointer;
+    height:32px;
+    font-size:14px;
+    box-shadow: 0 0 4px #999;
+    background-position: center;
+    transition: background 0.8s;
+}
+button:hover {
+    background: rgba(255, 0, 37, 0.52) radial-gradient(circle, transparent 1%, #47a7f5 1%) center/15000%;
+    color: white;
+    transform: scale(1.01);
+}
+button:active{
+    background-color:#292d3e;
+    background-size: 100%;
+    transition: background 0s;
+}
