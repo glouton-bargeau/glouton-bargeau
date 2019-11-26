@@ -7,6 +7,9 @@ $('#go').click(function () {
     var shiny = Math.round(Math.random()*5);
     var alola = Math.round(Math.random()*5);
     /***********************************/
+    $('#bgpokedex').css("background-image","url(\"pokemon/pokedex ouvert.png\")")
+        .css("height","900px");
+    $('#margineset').css("margin-top","350px");
     if (nombre===19) {
         if (alola === 1) {
             if (shiny === 1) {
