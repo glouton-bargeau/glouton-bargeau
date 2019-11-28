@@ -8,7 +8,7 @@ function pokemon() {
     var alola = Math.round(Math.random()*5);
     /***********************************/
     $('#bgpokedex').css("background-image","url(\"pokemon/pokedex ouvert.png\")")
-        .css("height","900px");
+        .css("height","950px");
     $('#margineset').css("margin-top","350px");
     if (nombre===19||nombre===20||nombre===26||nombre===27){
 
