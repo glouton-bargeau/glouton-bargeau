@@ -6,6 +6,7 @@ body,html{
     background-image: url("../pokemon/pokedex_fermer.png");
     background-size: cover;
     height: 400px;
+    width: 400px;
 }
 
 #margineset{
