@@ -10,7 +10,7 @@ function pokemon() {
     $('#bgpokedex').css("background-image","url(\"pokemon/pokedex ouvert.png\")")
         .css("height","950px");
     $('#margineset').css("margin-top","350px");
-    if (nombre===19||nombre===20||nombre===26||nombre===27){
+    if (nombre===19||nombre===20||nombre===26||nombre===27||nombre===28||nombre===37||nombre===38||nombre===50||nombre===51||nombre===52||nombre===53||nombre===74||nombre===75||nombre===88||nombre===89){
 
         if (alola === 1) {
             if (shiny === 1) {
@@ -54,3 +54,4 @@ $('#pkenumber').keyup(function (e) {
 $('#go').click(function (e) {
     pokemon();
 });
+/*********************************************************************/
