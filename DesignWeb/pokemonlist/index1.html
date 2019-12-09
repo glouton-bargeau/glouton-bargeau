@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="pokemon/pokeball1.png" />
+    <title>pokemon</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css libreri/wow.css">
+    <link rel="stylesheet" href="css libreri/csshake.css">
+
+    <script src="js/jquery-3.4.1.min.js" defer></script>
+    <script src="js/bootstrap.js" defer></script>
+    <script src="pokemontableau.js" defer></script>
+
+
+
+
+</head>
+<audio autoplay>
+    <source src="song/Pokemon_Theme_Song_In_French.mp3" type="audio/mpeg">
+</audio>
+<body>
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <img src="https://img.icons8.com/color/30/000000/pokedex.png">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+
+            <li class="nav-item active">
+                <a class="nav-link" href="index1.html">pokedex<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="index2.html">page2</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="index3.html">page3</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="index4.html">page4</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="index5.html">page5</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12 mt-3">
+            <div class="offset-4"></div>
+            <input type="text" class="form-control col-4 cela" id="pkenumber" placeholder=" max (151)">
+            <button class="btn white border border-red round-large col-4" id="go">pokemon GO!</button>
+        </div>
+        <div class="col-xl-3 col-md-12" id="bgpokedex">
+            <div id="margineset">
+                <h4 id="nom"></h4>
+                <img src="pokemon/Pokeball.png" class="animated span3 wow flip" height="172" width="172" id="pokemonimg"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+</body>
+</html>
