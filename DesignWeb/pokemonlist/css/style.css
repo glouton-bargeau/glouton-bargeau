@@ -41,8 +41,14 @@ button:active{
 .navpokeball{
     background-image: url(../pokemon/icons8-pokéball-2-48.png);
 }
-
-
+.paralax{
+    background-image: url("../background/pokemon8g.jpg");
+    height: 900px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 /*****************************************************************************/
 .navbar {
     background-color: #ba001f !important;

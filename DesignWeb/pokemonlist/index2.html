@@ -8,9 +8,10 @@
 
     <script src="js/jquery-3.4.1.min.js" defer></script>
     <script src="js/bootstrap.js" defer></script>
+    <script src="pokemontableau.js" defer></script>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <img src="https://img.icons8.com/color/30/000000/pokedex.png">
     <img id="navpok" src="https://img.icons8.com/color/48/000000/pokeball-2.png" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 
@@ -34,5 +35,39 @@
         </ul>
     </div>
 </nav>
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+    <!-- Indicators -->
+    <ul class="carousel-indicators">
+        <li data-target="#demo" data-slide-to="0" class="active"></li>
+        <li data-target="#demo" data-slide-to="1"></li>
+        <li data-target="#demo" data-slide-to="2"></li>
+    </ul>
+
+    <!-- The slideshow -->
+    <div class="carousel-inner align-items-center text-center">
+        <div class="carousel-item active">
+            <img src="background/Salamèche.jpg" class="img-fluid"/>
+
+        </div>
+        <div class="carousel-item">
+            <img src="background/carapuce.jpg" class="img-fluid"/>
+        </div>
+        <div class="carousel-item">
+            <img src="background/Bulbizarre.jpg" class="img-fluid"/>
+        </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </a>
+
+</div>
+
 </body>
 </html>

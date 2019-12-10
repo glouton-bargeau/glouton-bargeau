@@ -44,6 +44,7 @@ function pokemon() {
             $('#pokemonimg').attr("src", "pokemon/" + nombre + ".png");
         }
     }
+
 }
 /****************************keyup************************************/
 $('#pkenumber').keyup(function (e) {
