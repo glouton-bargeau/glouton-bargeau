@@ -44,7 +44,7 @@ button:active{
 }
 .paralax{
     background-image: url("../background/pokemon8g.jpg");
-    height: 900px;
+    min-height: 900px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -54,6 +54,28 @@ button:active{
     background-image: url("../background/starter1g.jpg");
     background: no-repeat;
     background-size: cover;
+}
+.bgblue{
+    background-image: url("../background/blue.png");
+}
+.bgyello{
+    background-image: url("../background/yello.png");
+}
+.bgred{
+    background-image: url("../background/red.png");
+}
+/*****************************************************************************/
+.bleu{
+    color: #003dff;
+    font-size: 20px;
+}
+.jaune{
+    color: #fffa00;
+    font-size: 20px;
+}
+.rouge{
+    color: red;
+    font-size: 20px;
 }
 /*****************************************************************************/
 .navbar {
