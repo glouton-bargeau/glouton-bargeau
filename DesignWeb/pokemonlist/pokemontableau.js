@@ -69,3 +69,16 @@ $('#navpok').click(function () {
 
 });
 /*********************************************************************/
+
+$('#bleu').click(function () {
+    $('.bgteam').css("background-image","url(\"background/blue.png\")")
+});
+$('#jaune').click(function () {
+    $('.bgteam').css("background-image","url(\"background/yello.png\")")
+});
+$('#rouge').click(function () {
+    $('.bgteam').css("background-image","url(\"background/red.png\")")
+});
+
+
+

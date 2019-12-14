@@ -5,13 +5,14 @@
     <title>Title</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-
+    <link rel="stylesheet" href="css libreri/csshake.css">
     <script src="js/jquery-3.4.1.min.js" defer></script>
     <script src="js/bootstrap.js" defer></script>
     <script src="pokemontableau.js" defer></script>
+
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+<nav class=" navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <img src="https://img.icons8.com/color/30/000000/pokedex.png">
     <img id="navpok" src="https://img.icons8.com/color/48/000000/pokeball-2.png" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 
@@ -35,5 +36,38 @@
         </ul>
     </div>
 </nav>
+<div class="container-fluid">
+    <div class="row bgdigimon">
+        <div class="offset-3"></div>
+        <div class="col-9 shake"><img src="background/plagiat.png" height="382" width="750"/></div>
+       <div class="offset-4"></div>
+        <iframe class="shake" width="560" height="315" src="https://www.youtube.com/embed/avxqiyCLUGA?start=68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+<div class="container-fluid">
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+        donner votre avis
+    </button>
+
+    <div class="modal" tabindex="-1" role="dialog" id="exampleModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">quand pensez vous?</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                </div>
+                <div class="modal-body">
+                    <textarea class="form-control col-xl-6" id="exampleFormControlTextarea1" rows="5"></textarea>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
 </body>
 </html>

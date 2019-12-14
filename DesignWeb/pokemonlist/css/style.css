@@ -1,3 +1,6 @@
+html body{
+    background-color: red;
+}
 .bglegendaire1g{
     background-image: url("../background/1glegendaire.png");
     width: 100%;
@@ -37,14 +40,16 @@ button:active{
     background-size: 100%;
     transition: background 0s;
 }
-
+.bgdigimon{
+    background-image: url("../background/digimon.jpg");
+}
 /****************************************************************************/
 .navpokeball{
     background-image: url(../pokemon/icons8-pokéball-2-48.png);
 }
 .paralax{
     background-image: url("../background/pokemon8g.jpg");
-    min-height: 900px;
+    height: 900px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -64,6 +69,10 @@ button:active{
 .bgred{
     background-image: url("../background/red.png");
 }
+.bgteam{
+    background-image: url("../background/team.jpg");
+    background-size: cover;
+}
 /*****************************************************************************/
 .bleu{
     color: #003dff;
@@ -76,6 +85,13 @@ button:active{
 .rouge{
     color: red;
     font-size: 20px;
+}
+.mgt{
+    margin-top: 100px;
+}
+.aller{
+    font-size: 40px;
+    color: yellow;
 }
 /*****************************************************************************/
 .navbar {
