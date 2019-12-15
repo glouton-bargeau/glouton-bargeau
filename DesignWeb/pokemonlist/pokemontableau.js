@@ -79,6 +79,6 @@ $('#jaune').click(function () {
 $('#rouge').click(function () {
     $('.bgteam').css("background-image","url(\"background/red.png\")")
 });
-
+/*********************************************************************/
 
 
